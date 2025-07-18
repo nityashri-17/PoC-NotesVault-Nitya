@@ -2,7 +2,7 @@
 
 Workflow :
 
-<img width="798" height="742" alt="NotesVault_PoC drawio" src="https://github.com/user-attachments/assets/bbe157bc-be5d-47a1-bd38-62f53d375b8f" />
+![NotesVault_PoC](https://github.com/user-attachments/assets/e392b15d-b1ad-470c-8915-f07460d62d26)
 
 
 Feature Set :
