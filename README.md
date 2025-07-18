@@ -2,7 +2,7 @@
 
 Workflow :
 
-![NotesVault_PoC](https://github.com/user-attachments/assets/e392b15d-b1ad-470c-8915-f07460d62d26)
+![NotesVault_PoC](https://github.com/user-attachments/assets/3f5844e7-58ba-4217-9be4-91a02db0c09b)
 
 
 Feature Set :
